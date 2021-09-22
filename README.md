@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # アプリ名: :bellhop_bell: roomin　(3番目に作ったアプリ)
 
 <h4> URL: https://roomin.herokuapp.com</h4>
@@ -163,3 +164,7 @@ https://tokkidesign.herokuapp.com
 <img width="1341" alt="スクリーンショット 2021-07-05 9 17 41" src="https://user-images.githubusercontent.com/65806682/124403533-ebada200-dd71-11eb-985e-ae6eba56bfef.png">
 
 
+=======
+# ejame-retaurant
+Restaurant order app.
+>>>>>>> origin/main
